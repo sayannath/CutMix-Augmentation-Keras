@@ -5,4 +5,4 @@
 # CutMix-Augmentation - Keras
 
 
-> **PR on Review** - https://github.com/keras-team/keras-io/pull/425
+> **PR Merged** - https://github.com/keras-team/keras-io/pull/425
